@@ -7,6 +7,8 @@ body{
 .titulo{
 text-align: center;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: larger;
+color: yellow;
 
  
 }
@@ -15,9 +17,18 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
   padding: 20px;
   background-color: rgb(180, 226, 248);
- 
-  
-  
-  
+   
 }
 
+.texto{
+
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #808080;
+    
+}
+
+.tabla{
+
+  margin:40px;
+  width: 80%;
+}
